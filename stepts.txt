@@ -1,0 +1,17 @@
+🔊 Audio Input (from child)
+     ↓
+🧠 STT (Whisper or Vosk)
+     ↓
+📜 Transcribed Text
+     ↓
+💬 LLM (Your GitHub-hosted model)
+     ↓
+📝 Text Reply
+     ↓
+🤖 Check if prompt contains "daddy"
+     ↓ YES                         NO
+     ↓                             ↓
+🗣️ Use cloned daddy voice         Just send text
+    to synthesize response
+     ↓
+🔊 Return audio + text

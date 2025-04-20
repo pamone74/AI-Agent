@@ -1,0 +1,7 @@
+chainlit
+langchain
+openapi
+openai
+langchain_openai
+azure-ai-inference
+twilio
