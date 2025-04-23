@@ -5,3 +5,10 @@ openai
 langchain_openai
 azure-ai-inference
 twilio
+azure.ai.projects
+azure-identity
+azure.identity
+dotenv
+websockets==11.0.3
+pyaudio
+openai[realtime]
